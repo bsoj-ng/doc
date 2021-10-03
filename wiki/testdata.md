@@ -111,5 +111,3 @@ langs:
   - cc
   - pas
 ```
-
-可以在 [此题库](https://hydro.ac/d/system_test/) 中找到各种类型题目的配置示例。
